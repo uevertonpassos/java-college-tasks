@@ -6,6 +6,6 @@ public class CelsiusParaFahrenheit {
         final int tempBase = 32;
 
 
-        System.out.println((celsius * 9/5) + tempBase);
+        System.out.println((celsius *divisao) + tempBase);
     }
 }
